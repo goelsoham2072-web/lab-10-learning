@@ -1,1 +1,1 @@
-# lab-10-learning
+Day 10 Lab 10 explores aviation image generation using structured prompts. It covers subject, style, environment, lighting and aspect ratio, along with prompt refinement, prompt bleed and accuracy checks. The lab also examines realistic airport visuals, ethical use, privacy, branding, safety, human review and responsible publication well.
